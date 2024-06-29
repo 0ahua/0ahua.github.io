@@ -1,0 +1,18 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "data": {
+        "updateRecordTime": "2020-04-15 10:01:18",
+        "unitName": "北京京东叁佰陆拾度电子商务有限公司",
+        "status": "1",
+        "serviceLicence": "京ICP备11041704号-3",
+        "natureName": "企业",
+        "mainLicence": "京ICP备11041704号",
+        "limitAccess": "否",
+        "leaderName": "",
+        "domain": "jd.com",
+        "contentTypeName": ""
+    },
+    "exec_time": 0.097186,
+    "ip": "223.76.127.69"
+}

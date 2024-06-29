@@ -1,0 +1,6 @@
+Port: 80
+Info: HTTP端口，常见web漏洞
+
+Port: 443
+Info: HTTPS端口，心脏滴血等与SSL有关的漏洞
+
